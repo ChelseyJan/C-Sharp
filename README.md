@@ -1,7 +1,9 @@
 # C-Sharp
 
-C Sharp Players Guide - Try Me Exercises
+C Sharp Players Guide - Try Me Exercises and Programs
 
-Index:
-Chapter 3: Hello World
-Chapter 6: Variable Type Explorer
+## Index:
+
+*HelloWorld.cs
+*VariableTypeExplorer.cs
+*FunMathProblems.cs
