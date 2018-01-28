@@ -2,8 +2,12 @@
 
 C Sharp Players Guide - Try Me Exercises and Programs
 
-## Index:
+## CS Scripts:
 
-*HelloWorld.cs
-*VariableTypeExplorer.cs
-*FunMathProblems.cs
+-Hello World
+-Variable Type Explorer
+-Fun Math Problems
+
+## Images:
+
+-Pyramid Solution Diagram (Fun Math Problems)
